@@ -1,6 +1,2 @@
-## 👋Hello, welcome to my profile
+![](https://i.ytimg.com/vi/7u7ek8QyWPI/maxresdefault.jpg)
 
-My name is Denny, and I like to create projects.
-
-I am fluent in JavaScript and [LuaU](https://github.com/luau-lang/luau)
-I am learning C and CSharp
